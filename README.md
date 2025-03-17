@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver problemas por meio de código. Bem-vindo ao meu perfil do GitHub!
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologias & ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver pr
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/renandspedrosa/](https://www.linkedin.com/in/renan-pedrosa/))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/renandspedrosa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/renandsp/)
 
 ## 📝 Latest Blog Posts
 
