@@ -30,5 +30,3 @@ Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver pr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/renandspedrosa/](https://www.linkedin.com/in/renan-pedrosa/))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/renandsp/)
-
-```` ▋
