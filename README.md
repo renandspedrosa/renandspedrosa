@@ -1,6 +1,6 @@
-# Hi there, I'm Renan! 👋
+# Olá, sou o Renan! 👋
 
-I'm passionate about technology and programming. I love to create, innovate, and solve problems through code. Welcome to my GitHub profile!
+Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver problemas por meio de código. Bem-vindo ao meu perfil do GitHub!
 
 ## 🔧 Technologies & Tools
 
