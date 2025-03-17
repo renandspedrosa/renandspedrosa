@@ -31,13 +31,4 @@ Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver pr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/renandspedrosa/](https://www.linkedin.com/in/renan-pedrosa/))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/renandsp/)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Closures](https://dev.to/renandspedrosa/understanding-javascript-closures-4l8g)
-- [A Guide to Responsive Web Design](https://dev.to/renandspedrosa/a-guide-to-responsive-web-design-3b9h)
-- [Mastering Git and GitHub](https://dev.to/renandspedrosa/mastering-git-and-github-2f7c)
-<!-- BLOG-POST-LIST:END -->
-
-⭐️ From [Renan S. Pedrosa](https://github.com/renandspedrosa)
 ```` ▋
