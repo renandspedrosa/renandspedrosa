@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver pr
 ## 📫 Como chegar até mim
 
 - Email: [renandspedrosa@gmail.com](mailto:renandspedrosa@gmail.com)
-- LinkedIn: [Renan S. Pedrosa]([https://www.linkedin.com/in/renandspedrosa/](https://www.linkedin.com/in/renan-pedrosa/))
+- LinkedIn: [Renan S. Pedrosa](https://www.linkedin.com/in/renan-pedrosa/)
 
 ## 🌐 Rede Social
 
