@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia e programação. Adoro criar, inovar e resolver pr
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renandspedrosa&show_icons=true&theme=radical)
 
-## 📫 Como chegar até mim
+## 📫 Contato
 
 - Email: [renandspedrosa@gmail.com](mailto:renandspedrosa@gmail.com)
 - LinkedIn: [Renan S. Pedrosa](https://www.linkedin.com/in/renan-pedrosa/)
